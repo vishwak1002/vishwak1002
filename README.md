@@ -7,10 +7,12 @@
 
 - 💻 I am a Software Developer at Temenos 
 - 💻 Practising DSA by following Neetcode
-- 🌱 I’m currently learning **Devops** and **Go**
+- Proficient in Swift and developing IOS applications.
+- Currently learning advanced  concepts like Swift UI and Combine 
+<!---- 🌱  I’m currently learning **Devops** and **Go** -->
 - 🏆 I would like to  Contribute more to Open Source Projects.
 - 📫 You can reach me at  **karnativishwa1@gmail.com**
-- [My Website](https://www.vishwakarnati.com)  -still in process
+<!--- [My Website](https://www.vishwakarnati.com)  -still in process -->
 
 ### My Skills or Tech stack (I will be continuously changing updating this ) 😁
 
@@ -18,6 +20,7 @@
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=reactt&logoColor=black&color=F7DF1E)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&logo=swift&logoColor=black&color=F80902)
 
 
 ### Wanna Connect ?? 
